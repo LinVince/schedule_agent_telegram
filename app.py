@@ -63,4 +63,4 @@ def main():
     app.run_polling()
 
 if __name__ == "__main__":
-    run_flask()
+    main()
