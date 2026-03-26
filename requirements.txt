@@ -1,7 +1,6 @@
 requests>=2.31.0
 APScheduler>=3.10.4
 Flask>=3.0.0
-line-bot-sdk>=3.7.0
 pymongo>=3.11
 pyngrok>=7.0.0
 python-dotenv
